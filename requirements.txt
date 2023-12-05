@@ -1,0 +1,24 @@
+matplotlib
+numpy
+opencv-python
+Pillow
+PyYAML
+scipy
+torch
+torchvision
+tqdm
+tensorflow==2.12.0
+seaborn
+pandas
+thop
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+scipy
+Flask
+Flask-Cors
+gdown
+-e .
