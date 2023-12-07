@@ -1,3 +1,4 @@
-from palletboxDetection.logger import logging
+from palletboxDetection.pipeline.training_pipeline import TrainPipeline
 
-logging.info("welcome")
+obj = TrainPipeline()
+obj.run_pipeline()
